@@ -1,0 +1,131 @@
+body{
+
+    color: rgb(188, 192, 189);
+    height: auto;
+    width: auto;
+    background-color:white;
+}
+h1{
+
+    text-align: center;
+    color: red;
+    size: 15cm;
+    font-style: normal;
+    font:bold;
+    animation-timing-function: cubic-bezier(0.39, 0.575, 0.565, 1);
+    font: underline;
+    background-color: cyan;
+    margin: 0;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.Containar {
+height: 40;
+width: 50;
+color: blue;
+text-align: center;
+border: 1px solid gray;;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 0;
+margin: 0;
+}
+
+form{
+
+    text-align: center;
+    height: 40;
+    width: 50;
+    background-color: cyan;
+    text-decoration-color: black;
+    color: black;
+    padding: 0;
+    margin: 0;
+}
+
+label {
+    display: inline-block;
+    width: 150px;
+    font-size: 12;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+    textarea{
+        text-align: justify;
+        display: inline-block;
+        margin: 0;
+        width: 40%; 
+        height: 40%; 
+        box-sizing: border-box; 
+    }
+
+.comment{
+
+    text-align: center;
+    vertical-align:top;
+    font-display:unset;
+    margin: 0;
+    padding: 0;
+    color: red;
+    font-family: fantasy;
+}
+
+button{
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+}
+
+.submit{
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+}
+
+table
+{
+    height: 40;
+    width: 50;
+    color: blue;
+    text-align: center;
+    border: 1px solid gray;;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+
+}
+nav{
+    background-color:yellow;
+    size: 10;
+}
+
+h2{
+    color:red;
+    size: 14;
+    text-align: center;
+}
